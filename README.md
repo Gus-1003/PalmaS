@@ -6,7 +6,8 @@ Praticas utilizando GNU Octave tendo como objetivo o aprendizado de seus método
     * Aulas - Curso_TADS: https://www.youtube.com/watch?v=YSrsyftTMGs&list=PLkHLOFXuBa2UZXcZAbzBGGV5Y33phiLKI&ab_channel=Profa.AlessandraMendes
     
 ## Fontes:
-    * Slides - Aula - TADS - https://drive.google.com/drive/folders/1fYUGVwQ1idNd81PCIq4xNoFOCqW1bn7H?usp=sharing
+    * Slides - Aula - TADS 
+        - https://drive.google.com/drive/folders/1fYUGVwQ1idNd81PCIq4xNoFOCqW1bn7H?usp=sharing
     * Base PDI 
         - http://hpc.ct.utfpr.edu.br/~charlie/docs/PID/PID_AULA_01.pdf#:~:text=Processamento%20de%20Imagens%20Processamento%20Digital%20de%20Imagens%20Consiste,processo%20sejam%20imagens%20ou%20informa%C3%A7%C3%B5es%20extra%C3%ADdas%20da%20imagem.
     * OpenCV 
