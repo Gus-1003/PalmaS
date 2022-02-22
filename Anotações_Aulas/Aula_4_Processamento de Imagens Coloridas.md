@@ -18,7 +18,7 @@
 
 ## Conceitos importantes:
 	- Brilho = Intensidade ou grau de presença da luz;
-	- Cromaticidade é a junção dos valores da matiz e da saturação juntas (Revise o modelo HSV); 
+	- Cromaticidade = junção dos valores da matiz e da saturação (Revise o modelo HSV); 
 
 ## Espaço e modelos de cores:
 	- Color space ou Color gamut (espaço de cores) = Universo de cores que pode ser reproduzido por um sistema;
