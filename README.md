@@ -5,6 +5,7 @@ Praticas utilizando GNU Octave tendo como objetivo o aprendizado de seus método
 ## Me baseando por: 
     * Aulas - Curso_TADS: https://www.youtube.com/watch?v=YSrsyftTMGs&list=PLkHLOFXuBa2UZXcZAbzBGGV5Y33phiLKI&ab_channel=Profa.AlessandraMendes
     * Livro  - Gonzalez - https://drive.google.com/drive/folders/10QBS_0ED5_weRb7SygmQX8MF1Fif-Ng8?usp=sharing
+    * Livro  - Wilson Carron e Osvaldo Guimarães - As Faces da Física : Volume Unico - 1997
     
 ## Fontes:
     * Slides - Aula - TADS 
