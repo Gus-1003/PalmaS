@@ -2,7 +2,7 @@
 ## Aquisição:
 	- Transforma ondas eletromagneticas em dados digitais;
 	- Escolha da melhor forma de aquisição (Hora, luminosidade, fundo, resolução da camera);
-	- Qunato mais padronizada for a aquisição menor será a complexidade do algoritmo;
+	- Quanto mais padronizada for a aquisição menor será a complexidade do algoritmo;
 	
 ## Pré-processamento:
 	- Consiste no enfoque das caracteristicas de interesse;
