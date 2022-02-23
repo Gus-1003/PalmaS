@@ -1,8 +1,30 @@
 (AULA 1 - Curso: TADS - Disciplina: PDI - Professora Alessandra)
 
 # Introdução:
+## Processamento Digital de Imagem:
+	* Envolve processos cujas entradas e saídas são imagens e, além disso, envolve processos de extração de atributos de imagens até — e inclusive — o reconhecimento  de objetos individuais.
+	
+## Processos Computacionais:
+
+### 1. Processos de nível baixo:
+	* Tanto a entrada quanto a saída de um processo são imagens;
+	* Envolvem operações primitivas, como:
+		* Redução do ruído; 
+		* Realce de contraste; 
+		* Aguçamento da imagens.
+	
+### 2. Processos de nível médio:
+	* é caracterizado pelo fato de suas entradas, em geral, serem imagens, mas as saídas são atributos extraídos dessas imagens;
+	* Envolve tarefas como:
+		* Segmentação (separação de uma imagem em regiões ou objetos);
+		* Descrição desses objetos;
+		* Classificação (reconhecimento) de objetos individuais;
+### 3. Processamento de nível alto:
+	* Envolve “dar sentido” a um conjunto de objetos reconhecidos, como na análise de imagens e, no extremo dessa linha contínua, realizar as funções cognitivas normalmente associadas à visão;
+	
 ## Conceitos primordiais:
-### Objetivo das tecnicas em "PI":
+
+### Objetivo das tecnicas de Processamento de Imagem:
 	* Aumentar o escopo do que podemos ver em nossa realidade;
 	* Conseguir por meio de retratos extrair dados relevantes;
 	* Conseguir descrever e identificar objetos e eventos com maior precisão;
@@ -36,7 +58,14 @@
 ### Imagem Digital:
 	* As Função que antes eram contínuas se tornam agora são amostradas e seu grau de amplitude agora é quantizado;	
 	* A imagem digital é a representação da imagem contínua por um array 2-d de amostras discretas;
-	* Pixel: Cada elemento/unidade da matriz (Menor particula de uma imagem);
+	* Essas amostras possuem uma localização e valor espíficos. esse elementos podem ser chamados de:
+		- Elementos Pictóricos;
+		- Elementos de imagem;
+		- pels;
+		- pixels;
+
+### Pixel: 
+	*  termo mais utilizado para representar cada elemento/unidade da matriz (Menor particula de uma imagem);
 
 ### Amostragem:
 	* Ato que o sensor realiza ao transformar a observação "real" em uma observação discreta (quantizada);
