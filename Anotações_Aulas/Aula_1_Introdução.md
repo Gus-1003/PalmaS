@@ -3,6 +3,10 @@
 # Introdução:
 ## Processamento Digital de Imagem:
 	* Envolve processos cujas entradas e saídas são imagens e, além disso, envolve processos de extração de atributos de imagens até — e inclusive — o reconhecimento  de objetos individuais.
+
+## Áreas Principais de Aplicação:
+	* Melhoramento de informações visuais para a interpretação humana;
+	* Processamento de dados de imagens (Armazenamento, transmissão e representação) considerando a presepção automática por máquinas.
 	
 ## Processos Computacionais:
 
