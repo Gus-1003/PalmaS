@@ -6,7 +6,15 @@
 
 ## Áreas Principais de Aplicação:
 	* Melhoramento de informações visuais para a interpretação humana;
+		* Remoção de Ruído;
+		* Debluring
+		* Melhoramento de contraste
+		* Manipulação de Imagem
 	* Processamento de dados de imagens (Armazenamento, transmissão e representação) considerando a presepção automática por máquinas.
+		* Monitoramento de tráfego;
+		* Identificação de Indivíduos;
+		* Automação Industrial;
+		* Vigilãncia Visual;
 	
 ## Processos Computacionais:
 
@@ -61,7 +69,7 @@
 	
 ### Imagem Digital:
 	* As Função que antes eram contínuas se tornam agora são amostradas e seu grau de amplitude agora é quantizado;	
-	* A imagem digital é a representação da imagem contínua por um array 2-d de amostras discretas;
+	* A imagem digital é a representação da imagem contínua por um array 2-d de amostras discretas (Possuem um intervalo de valores);
 	* Essas amostras possuem uma localização e valor espíficos. esse elementos podem ser chamados de:
 		- Elementos Pictóricos;
 		- Elementos de imagem;
@@ -83,7 +91,7 @@
 	* Geralmente é a combinação de 3 telas(matrizes) que formam uma imagem;
 
 ### Níveis de cinza:
-	* Nome dado aos graus de intensidade que uma tela pode possuir;
+	* Nome dado aos graus de intensidade que uma pixel pode possuir;
 	* Quanto maior o número de bits mais sutil essa gradação de "preto <-> branco" acontece;
 		- A imagem pixelidazada (Quadriculada) é resultado de um número pequeno de pixels;
 		- Mais bits = Mais pixels = Maior capacidade de arredondamento dos elementos (Resolução da imagem);
@@ -97,6 +105,14 @@
 		- Espacicial: é o melhor detalhe discernível em uma imagem (pontos por polegada - dpi);
 		- de Intensidade: é a menor variação discernível entre níveis de intensidade;
 			1. Cuidado com as denominação png(a imagem salva fica com melhor definição) e jpg;
+			
+### Adaptação de Brilho e Discriminação:
+	* Efeito de banda Mach;
+		* Ilusão de óptica que faz com que sejam observados um padrão de brilho fortemente alterado nas bordas de uma imagem em tons de cinza;
+		* Enquanto que na imagens os niveis sejam constantes o olho humano vé um brutal diferença de tonalidade;
+
+### Contraste simultâneo:
+	* "Um brilho de uma região não depende apenas de sua intensidade. O ambiente interfere o brilho da forma."
 
 ### Modelos de cores:
 	* RGB = RED (Vermleho) / GREEN (Verde) / BLUE (Azul)
