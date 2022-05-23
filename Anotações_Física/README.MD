@@ -1,1 +1,0 @@
-# Fisica - Optica e Ondulatória
