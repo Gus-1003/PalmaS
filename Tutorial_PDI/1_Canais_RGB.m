@@ -7,7 +7,7 @@ clear all // Apaga todas as variveis
 pkg load image 
 // Importar pacote de processamento de Imagem
 
-im = imread('C:\Users\Neide\Downloads\imagem2.jpg'); 
+im = imread('Lena.jpg'); 
 // imread = comando de leitura da imagem;
 // figure (n) = (sem ponto e virgula) Gera uma janela de imagem aonde uma figura pode ser impressa;
 // imshow(x) = (sem ponto e virgula) imprime a imagem;
