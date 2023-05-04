@@ -1,6 +1,6 @@
 # Processamento de Imagem
 
-<img src="https://github.com/Gus-1003/Processamento-Digital-de-Imagem/blob/main/PDI.jpg" align="left" width="700" height="260"/>
+<img src="https://github.com/Gus-1003/Processamento-Digital-de-Imagem/blob/main/Banco_de_Imagens/PDI.jpg" align="left" width="700" height="260"/>
 
 O Processamento Digital de Imagens (PDI) é uma área da informática que se dedica ao desenvolvimento de técnicas e algoritmos para manipular imagens digitais. O objetivo é melhorar a qualidade das imagens, facilitar sua interpretação, extrair informações relevantes e reconhecer objetos e padrões presentes nas imagens.
 
