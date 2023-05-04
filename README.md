@@ -1,6 +1,6 @@
 # Processamento de Imagem
 
-<img src="https://github.com/Gus-1003/Processamento-Digital-de-Imagem/blob/main/Banco_de_Imagens/PDI.jpg" align="left" width="700" height="260"/>
+<img src="https://github.com/Gus-1003/Processamento-Digital-de-Imagem/blob/main/Banco_de_Imagens/PDI.jpg" align="center" width="700" height="260"/>
 
 O Processamento Digital de Imagens (PDI) é uma área da informática que se dedica ao desenvolvimento de técnicas e algoritmos para manipular imagens digitais. O objetivo é melhorar a qualidade das imagens, facilitar sua interpretação, extrair informações relevantes e reconhecer objetos e padrões presentes nas imagens.
 
@@ -19,6 +19,7 @@ Por fim, é importante mencionar que o PDI tem evoluído com o avanço das tecno
 ## Fontes:
     * Slides da disciplina de PDI - TADS / UFRN
     * OpenCV 
+        - https://learnopencv.com/getting-started-with-opencv/
         - https://docs.opencv.org/3.3.0/d6/d00/tutorial_py_root.html
         - https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contour_features/py_contour_features.html
     * Pytorch 
